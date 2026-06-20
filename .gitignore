@@ -1,6 +1,6 @@
 node_modules/
-  dist/
-  .env
-  .env.local
-  *.tsbuildinfo
-  
+dist/
+.env
+.env.local
+*.tsbuildinfo
+.replit-artifact/
